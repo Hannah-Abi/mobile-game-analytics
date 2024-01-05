@@ -23,13 +23,12 @@ The database contains three datasets: account, account_date_session, and iap_pur
    -	Technical issues.
    -	Game updates or changes 
    -	User burnout or fatigue.
-#### 3. Revenue Spliy by Country
+![Daily Avtive Users](./images/DAU Analysis.PNG)
+#### 3. Revenue Split by Country
 * In 2016, the total revenue amounted to $45,518.62. The dataset exhibits no abnormalities. Notably, the range of in-app purchases spans from a minimum of 36 cents to a maximum of $40, demonstrating a diverse range of transaction values within the dataset.
    -	The United States leads in revenue with an impressive $13,148. This can be attributed to the widespread popularity of mobile gaming in the country and the large user base.
    -	China follows closely with a substantial revenue of $11,650. The Chinese gaming market continues to be a major player in the global industry, driven by a massive population and a growing appetite for mobile games.
-   -	South Korea contributes significantly to the revenue, amounting to $4,635. The country has a strong gaming culture, and its citizens are known for their enthusiasm towards mobile gaming. 
-   -	Canada's revenue from the mobile game stands at $2,545. While comparatively lower than the USA and China, this figure reflects a notable market share and indicates a steady engagement of the Canadian audience with the mobile gaming industry.
-   -	The following countries that contribute slightly to the revenue of 2016 are Turkey, Switzerland, France, and England. 
+
 
 #### 4. Users by Country
 -	China leads with a massive user base of 38,044k, underscoring the immense popularity and widespread adoption of the mobile game in the Chinese market.
