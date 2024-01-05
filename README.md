@@ -12,14 +12,14 @@ The database contains three datasets: account, account_date_session, and iap_pur
     *	The dataset contains in-app purchases by users.
     *	There are 2 paying users that are missing geographic information. Luckily, they only made up 20 euros purchase. 
 2. Analyzing the Daily Active Users (DAU)
-The chart depicts the Daily Active Users (DAU) and its components—new users and returning users—over a specified time period. Notably, there is a significant surge in DAU from the start of the year until mid-February 2016. 
-Subsequently, DAU experiences fluctuations, ranging between 4300 and 5400.
-Consistently, users engage with the game on a daily basis. 
-Nevertheless, there are instances throughout the year where DAU experiences sudden drops, such as on March 15th and September 8th.
-Moreover, DAU remains consistently stable, hovering around 5100 for the duration of July and August.
+* The chart depicts the Daily Active Users (DAU) and its components—new users and returning users—over a specified time period. Notably, there is a significant surge in DAU from the start of the year until mid-February 2016. 
+* Subsequently, DAU experiences fluctuations, ranging between 4300 and 5400.
+* Consistently, users engage with the game on a daily basis. 
+* Nevertheless, there are instances throughout the year where DAU experiences sudden drops, such as on March 15th and September 8th.
+* Moreover, DAU remains consistently stable, hovering around 5100 for the duration of July and August.
 
-The reason for the sudden decrease in the DAU might be: 
--	Technical issues.
--	Game updates or changes 
--	User burnout or fatigue. 
+* The reason for the sudden decrease in the DAU might be: 
+   -	Technical issues.
+   -	Game updates or changes 
+   -	User burnout or fatigue. 
 
