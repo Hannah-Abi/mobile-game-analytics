@@ -23,7 +23,7 @@ The database contains three datasets: account, account_date_session, and iap_pur
    -	Technical issues.
    -	Game updates or changes 
    -	User burnout or fatigue.
-![Daily Avtive Users](./images/DAU Analysis.png)
+![Daily Avtive Users](./images/DAU-Analysis.png)
 #### 3. Revenue Split by Country
 
 ![Daily Avtive Users](./images/revenue-split-by-country.png)
