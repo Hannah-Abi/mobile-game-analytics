@@ -18,10 +18,10 @@ The database contains three datasets: account, account_date_session, and iap_pur
    -	Technical issues.
    -	Game updates or changes 
    -	User burnout or fatigue.
-![Daily Avtive Users](./images/DAU-Analysis.png)
+![Daily Active Users](./images/DAU-Analysis.png)
 #### 3. Revenue Split by Country
 
-![Daily Avtive Users](./images/revenue-split-by-country.png)
+![Daily Active Users](./images/revenue-split-by-country.png)
 
 * In 2016, the total revenue amounted to $45,518.62. The dataset exhibits no abnormalities. Notably, the range of in-app purchases spans from a minimum of 36 cents to a maximum of $40, demonstrating a diverse range of transaction values within the dataset.
    -	The United States leads in revenue with an impressive $13,148. This can be attributed to the widespread popularity of mobile gaming in the country and the large user base.
